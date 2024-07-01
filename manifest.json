@@ -12,7 +12,7 @@
   "custom": {
     "docker-image": "stanfordcni/cni-qa-report-fmri:1.0.4",
     "flywheel": {
-      "suite": "Image Processing",
+      "suite": "Quality Assurance",
       "classification": {
         "species": [
           "Human"
